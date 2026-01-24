@@ -1,4 +1,4 @@
-Hey. YIJANGs(YIJANG) here.
+## Hey. YIJANGs(YIJANG) here.
 
 Nothing more wanna say, you can see something about myself [here](https://yijang.xyz).
 
