@@ -1,4 +1,4 @@
-## Hey. YIJANGs(YIJANG) here. <br>我是YIJANG。
+## Hey. YIJANG(0x1A5) here. <br>我是YIJANG。
 
 I dont like to show others my infomation a lot, so you can just find me by accident.
 <br>
@@ -17,5 +17,5 @@ Some my favo sayings.
 You can see something about myself [here](https://yijang.xyz).
 你可以在[这里](https://yijang.xyz)了解更多。
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YIJANGs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIJANGs&layout=compact&theme=radical&hide=xml,markdown)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0x1A5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1A5&layout=compact&theme=radical&hide=xml,markdown)
