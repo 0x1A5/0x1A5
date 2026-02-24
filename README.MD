@@ -10,7 +10,7 @@ Some my favo sayings.
 > <br>
 > 保持饥饿，保持愚蠢。
 
-> The best way to predict the future is create it.
+> The best way to predict the future is to create it.
 > <br>
 > 预见未来的最好方式就是创造它。
 
