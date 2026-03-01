@@ -8,7 +8,7 @@ Sometimes I called myself YIJANG. 有的时候我也自称YIJANG。
 `Java` `Python` `JavaScript`
 
 ### Other
-Because something dangerous I did, I can't list my information a lot.
+Because some my historical reason, I can't list my information a lot.
 <br>
 因为我的某些历史原因，我不能公开很多我的信息。
 
