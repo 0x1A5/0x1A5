@@ -1,21 +1,18 @@
-## Hey. YIJANG(0x1A5) here. <br>我是YIJANG。
 
-I dont like to show others my infomation a lot, so you can just find me by accident.
+
+## Hey. 0x1A5 here.
+Sometimes I called myself YIJANG. 有的时候我也自称YIJANG。
+
+### About me
+`Software Reverse Engineering`
+`Java` `Python` `JavaScript`
+
+### Other
+Because something dangerous I did, I can't list my information a lot.
 <br>
-我不喜欢向别人透露许多个人信息，所以你只能偶然地能找到我的联系方式。
+因为我的某些历史原因，我不能公开很多我的信息。
 
-Some my favo sayings. 
-我喜欢的一些名言。
-> Stay hungry, stay foolish.
-> <br>
-> 保持饥饿，保持愚蠢。
-
-> The best way to predict the future is to create it.
-> <br>
-> 预见未来的最好方式就是创造它。
-
-You can see something about myself [here](https://yijang.xyz).
+You can see something more about myself [here](https://yijang.xyz).
+<br>
 你可以在[这里](https://yijang.xyz)了解更多。
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0x1A5&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1A5&layout=compact&theme=radical&hide=xml,markdown)
