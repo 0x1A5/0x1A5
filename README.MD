@@ -4,6 +4,7 @@ Sometimes I called myself YIJANG. 有的时候我也自称YIJANG。
 ### About me
 `Software Reverse Engineering`
 `Java` `Python` `JavaScript` `.NET`
+`Social Engineering`
 
 ![](https://github-readme-stats.vercel.app/api?username=0x1A5&theme=radical)
 
